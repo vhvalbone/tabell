@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid #333;
+}
+th, td {
+    padding: 10px;
+    border: 1px solid #333;
+}
+th {
+    background-color: #ff0000;
+    color: #fff;
+    text-align: left;
+}
+.röd {
+    background-color: #ec8d8d;
+}
+.röd td {
+    background-color: #ec8d8d; 
+}
+.gul{
+    background-color: aqua;
+}
+.gul td{
+    background-color: aqua;
+}
